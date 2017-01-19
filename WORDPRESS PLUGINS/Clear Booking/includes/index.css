@@ -1,0 +1,52 @@
+.bkng{ max-height:250px !important;overflow-y:scroll !important;height:250px !important; }
+#roombtn{color:#aa9d2e;}
+#cpnbtn{color:#aa9d2e;}
+
+#toprow { padding:15px; vertical-align:middle; color:#aa9d2e; font-size:150%;border-top:white thin solid; margin-top:30px;margin-bottom:30px;border:#aa9d2e thin solid;}
+
+
+.resDetails_header{border-bottom:thin dashed #aa9d2e;padding:10px;margin-top:30px;margin-bottom:30px;}
+#availablecol {display:none;}
+
+#checkavailability { cursor:pointer; background-color:#ffb549 ; color:white;}
+
+
+#availablecoloffs{display:none;}
+
+#bookingcol{display:none;}
+
+#ratescol{display:none;}
+
+#detailscol{display:none;padding-bottom:10px;}
+
+body{padding-bottom:50px;}
+.checking {display:none;}
+
+#calenderrow{display:none;}
+
+
+
+.arooms , .acpns { max-height:250px !important;overflow-y:scroll !important;text-align:left !important;background-color:white;font-size:90%;color:grey;padding:5px;height:250px !important;  vertical-align:middle;}
+
+
+
+
+#innerfirstinnerrow { }
+
+#firstinnerrow { max-height:50px !important;background-color:white;font-size:110%;color:grey;padding:10px;height:50px !important;text-align:left !important; vertical-align:middle;margin-top:20px; }
+
+.col-sm-6{border-right:white thick solid;vertical-align:middle;}
+
+.checking{  background-color:black;text-align:center; color:white;padding:15px;margin-bottom:20px;}
+
+p { cursor:pointer;}
+
+
+.daydiv { cursor:pointer; }
+
+.todaydiv { cursor:pointer; }
+
+#ratescol { margin-top:15px;}
+
+
+#rescontent div {padding:5px;}

@@ -1,0 +1,23 @@
+  .thumb {
+    height: 75px;
+
+    margin: 10px 5px 0 0;
+  }
+
+.form-control {width:100%;}
+ #bd_details_table input {width:100%;}
+ #drop_zone
+
+{
+
+width:100%; border:grey dotted medium;text-align:center;vertical-align:middle;height:200px;
+
+
+}
+
+
+#companyname { background-color:black; }
+
+.payment_gateway_table {border:black thin solid; }
+
+.payment_gateway_table td {border:black thin solid; padding:5px;}
